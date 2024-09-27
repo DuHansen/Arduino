@@ -1,4 +1,4 @@
 ## Display com botão
 
-!Mídia.jfif 
+ <img id="image" src="Mídia.jfif" alt="Imagem" style="display:none;">
 
